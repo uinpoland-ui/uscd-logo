@@ -1,7 +1,7 @@
 {
-  "name": "USCD",
-  "symbol": "USCD",
-  "description": "USCD Stablecoin",
+  "name": "USDC",
+  "symbol": "USDC",
+  "description": "USDC Stablecoin",
   "image": "https://raw.githubusercontent.com/uinpoland-ui/uscd-logo/main/IMG_2969.png",
   "external_url": "https://github.com/uinpoland-ui",
   "decimals": 6,
